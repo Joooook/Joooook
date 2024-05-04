@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 <a href="https://github.com/Joooook" target="_blank"><img  align=center src="https://img.shields.io/badge/github-Joooook-%231677ff?style=flat"/></a><a href="https://www.cnblogs.com/Joooook" target="_blank"><img  align=center src="https://img.shields.io/badge/cnblogs-Joooook-%235cd26c?style=flat"/></a>
 
 
