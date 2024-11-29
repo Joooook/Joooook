@@ -8,5 +8,5 @@
 ### Buy me a drink.
 
 <a href="https://afdian.com/item/2a0e0cdcadf911ef9f725254001e7c00">
-  <img src="https://s2.loli.net/2024/11/29/1JBxzphs7V6WcK9.jpg">
+  <img src="https://s2.loli.net/2024/11/29/1JBxzphs7V6WcK9.jpg" width="300px">
 </a>
