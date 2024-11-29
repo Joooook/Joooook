@@ -3,3 +3,8 @@
 
 
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=Joooook&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
+
+
+### Buy me a drink.
+
+[![Gizmo's Profile](https://afdian-connect.deno.dev/profile.svg?slug=joooook)](https://afdian.com/a/joooook)
