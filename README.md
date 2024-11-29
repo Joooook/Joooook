@@ -7,4 +7,6 @@
 
 ### Buy me a drink.
 
-https://afdian.com/a/joooook
+<a href="https://afdian.com/item/2a0e0cdcadf911ef9f725254001e7c00">
+  <img src="https://smms.app/image/1JBxzphs7V6WcK9">
+</a>
