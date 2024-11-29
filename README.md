@@ -7,4 +7,4 @@
 
 ### Buy me a drink.
 
-[![Gizmo's Profile](https://afdian-connect.deno.dev/profile.svg?slug=joooook)](https://afdian.com/a/joooook)
+https://afdian.com/a/joooook
